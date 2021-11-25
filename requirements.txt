@@ -134,7 +134,6 @@ three-merge==0.1.1
 tinycss2==1.1.1
 toml==0.10.2
 tomli==1.2.2
-torch==1.10.0
 tornado==6.1
 traitlets==5.1.1
 typing_extensions==4.0.0
